@@ -1,7 +1,7 @@
 # Portfolio Website
 
 👋 Hi, I’m Saron Hailemeskel  
-Beginner Frontend Developer 
+Aspiring  Frontend Developer 
 
 ## Technologies
 - HTML

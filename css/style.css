@@ -44,3 +44,34 @@ body {
 .section:nth-child(odd) {
   background: #fff;
 }
+/* CONTACT FORM */
+#contact-form {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#contact-form input,
+#contact-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#contact-form button {
+  padding: 10px;
+  background: #00adb5;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#contact-form button:hover {
+  background: #008c94;
+}
+
+#form-message {
+  font-size: 14px;
+}
